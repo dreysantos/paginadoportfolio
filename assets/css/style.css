@@ -167,8 +167,10 @@
   margin: 0 8px;
   filter: invert(1);
   transition: transform 0.3s;
+  border-radius: 50%;
 }
 
 .rodape .redes a img:hover {
   transform: scale(1.2);
 }
+
